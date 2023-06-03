@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @Herbeno
 - 👀 I’m interested in technology, BI, data science, machine learning, deep learning...
+- I Currently work in a metallurgical and I still don't work with technology, but I'm studying and I want to be a Data Engineer.
