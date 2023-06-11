@@ -4,4 +4,4 @@
 
 **Conect with me**: 
 
-[](https://www.linkedin.com/in/herbenoliveira)![in](https://github.com/Herbeno/Herbeno/assets/128205316/521e0c94-9289-4e63-9777-6d802a03ef26)
+[Linkedin](https://www.linkedin.com/in/herbenoliveira)
