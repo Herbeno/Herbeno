@@ -6,4 +6,4 @@
 
 [Linkedin](https://www.linkedin.com/in/herbenoliveira)
 
-[blog](https://hrbdata.blogspot.com/)
+[Blog](https://hrbdata.blogspot.com/)
