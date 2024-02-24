@@ -9,7 +9,7 @@ I've always interested into the development field, and I've decided to pursue a 
 I started by taking courses in Python, SQL, and data analytics.
 
 ### 🎯 Actualy focus
-I'm currently dedicated to ] <b>backend</b> development, with a focus on JavaScript and its associated technologies. I'm studying <b>Node.js and Express.js</b>.  aiming to expand my knowledgy in app web development and APIs.
+I'm currently dedicated to <b>backend</b> development, with a focus on JavaScript and its associated technologies. I'm studying <b>Node.js and Express.js</b>.  aiming to expand my knowledgy in app web development and APIs.
 
 ### 📖 I'm currently studing
 * JavaScript (Node.js, Express.js)
@@ -22,7 +22,7 @@ I'm currently dedicated to ] <b>backend</b> development, with a focus on JavaScr
 * Data analytics
 
 ### 🛠️ Technologies and tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" /> 
 
 ### GitHub Stats
 <div>
@@ -31,9 +31,15 @@ I'm currently dedicated to ] <b>backend</b> development, with a focus on JavaScr
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=herbeno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-📫 **Conect with me**: 
+🤝 <b>Connect with me:</b> 
 <div>
 <a href="https://www.linkedin.com/in/herbenoliveira" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
+📫 <b>Contact with me:</b>
+<div>
 <a href = "mailto:hrbdata17@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+📝 <b>Blog:</b>
+<div>
 <a href="https://hrbdata.blogspot.com" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Blogspot-orange?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogspot"></a>
 </div>
