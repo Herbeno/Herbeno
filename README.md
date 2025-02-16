@@ -1,25 +1,26 @@
 # 👋 Hi, I’m **Herben Oliveira**
-## Welcome to my Github profile. 
+## Welcome to my GitHub profile. 
 
 ### 👤 About me
-I'm currently transitioning into the develoment field. I recently graduated in mathematics and studying artificial intelligence.
+I'm a Mathematics teacher currently pursuing a degree in Analysis and Systems Development, transitioning into the tech field.
 
 ### 🚀 My journey
-I've always interested into the development field, and I've decided to pursue a career in this area.
-I started by taking courses in Python, SQL, and data analytics.
+I've always been interested in development, and I decided to pursue a career in this area.
+I started by taking courses in Python, SQL, and Data Analytics.
 
 ### 🎯 Actualy focus
-I'm currently dedicated to <b>backend</b> development, with a focus on JavaScript and its associated technologies. I'm studying <b>Node.js and Express.js</b>.  aiming to expand my knowledgy in app web development and APIs.
+I'm currently dedicated to backend development, focusing on Object-Oriented Programming with Java.
+I'm studying Java and its frameworks, aiming to expand my knowledge in software architecture and backend development.
 
 ### 📖 I'm currently studing
 * JavaScript (Node.js, Express.js)
-* Web app Dev
+* OOP with Java
 * Agile Development practices
 
 ### 📚 My interests
 * Software development
 * Artificial inteligence
-* Data analytics
+* Backend development
 
 ### 🛠️ Technologies and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" /> 
