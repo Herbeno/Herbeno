@@ -2,7 +2,7 @@
 ## Welcome to my GitHub profile. 
 
 ### 👤 About me
-I'm a Mathematics teacher currently pursuing a degree in Analysis and Systems Development, transitioning into the tech field.
+Mathematics teacher with a degree in Mathematics and a postgraduate degree in Systems Analysis and Development. Currently studying Java for backend development and transitioning into the tech field.
 
 ### 🚀 My journey
 I've always been interested in development, and I decided to pursue a career in this area.
