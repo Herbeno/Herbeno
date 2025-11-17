@@ -2,28 +2,29 @@
 ## Welcome to my GitHub profile. 
 
 ### 👤 About me
-Mathematics teacher with a degree in Mathematics and a postgraduate degree in Systems Analysis and Development. Currently studying Java for backend development and transitioning into the tech field.
+Mathematics teacher with a degree in Mathematics and a postgraduate degree in Systems Analysis and Development. Currently transitionin into the tech field and studying Java for backend development.
 
 ### 🚀 My journey
-I've always been interested in development, and I decided to pursue a career in this area.
-I started by taking courses in Python, SQL, and Data Analytics.
+I've always been interested in development, and I decided to build a career in software development.
+I began studying Python, SQL, and Data Analytics, and I discovered a strong interest in backend development
 
 ### 🎯 Actualy focus
-I'm currently dedicated to backend development, focusing on Object-Oriented Programming with Java.
-I'm studying Java and its frameworks, aiming to expand my knowledge in software architecture and backend development.
+I'm currently dedicated to backend development, studying Java and the Spring Boot ecosystem. My goal is to improve my understanding of software architecture, APIs, and best practices in modern backend development.
 
 ### 📖 I'm currently studing
-* JavaScript (Node.js, Express.js)
+* Java + Spring Boot
 * OOP with Java
 * Agile Development practices
 
 ### 📚 My interests
-* Software development
-* Artificial inteligence
-* Backend development
+* Backend Development
+* Software Engineering
+* Artificial Intelligence
+* API Development
 
 ### 🛠️ Technologies and tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="50" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" /> 
 
 ### GitHub Stats
 <div>
