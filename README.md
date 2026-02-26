@@ -1,29 +1,57 @@
 # 👋 Hi, I’m **Herben Oliveira**
 ## Welcome to my GitHub profile. 
 
-### 👤 About me
-Mathematics teacher with a degree in Mathematics and a postgraduate degree in Systems Analysis and Development. Currently transitionin into the tech field and studying Java for backend development.
+Mathematics teacher turned BI professional, with a degree in Mathematics and a postgraduate degree in Systems Analysis and Development. Currently working as a BI Assistant, building data solutions and dashboards to support business decision-making.
 
-### 🚀 My journey
-I've always been interested in development, and I decided to build a career in software development.
-I began studying Python, SQL, and Data Analytics, and I discovered a strong interest in backend development
+- Develop dashboards using Power BI
 
-### 🎯 Actualy focus
-I'm currently dedicated to backend development, studying Java and the Spring Boot ecosystem. My goal is to improve my understanding of software architecture, APIs, and best practices in modern backend development.
+- Transform and model data with Power Query
 
-### 📖 I'm currently studing
-* Java + Spring Boot
-* OOP with Java
-* Agile Development practices
+- Write SQL queries for data extraction and analysis
 
-### 📚 My interests
-* Backend Development
-* Software Engineering
-* Artificial Intelligence
-* API Development
+- Use Python for data manipulation and automation
 
-### 🛠️ Technologies and tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" /> 
+- Support data-driven decision-making processes
+
+I’m deeply interested in backend development and software engineering principles. I enjoy understanding how systems work behind the scenes and how data flows through applications.
+
+
+
+### 🛠️ Technologies and Tools
+
+<!-- Power BI -->
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</a>
+
+<!-- PostgreSQL -->
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" />
+</a>
+
+<!-- MySQL -->
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
+</a>
+
+<!-- Python -->
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
+</a>
+
+<!-- Jupyter -->
+<a href="https://jupyter.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="50" />
+</a>
+
+<!-- Git -->
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
+</a>
+
+<!-- VS Code -->
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" />
+</a>
 
 ### GitHub Stats
 <div>
