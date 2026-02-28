@@ -1,7 +1,7 @@
 # 👋 Hi, I’m **Herben Oliveira**
 ## Welcome to my GitHub profile. 
 
-Mathematics teacher turned BI professional, with a degree in Mathematics and a postgraduate degree in Systems Analysis and Development. Currently working as a BI Assistant, building data solutions and dashboards to support business decision-making.
+Former Mathematics teacher turned Business Intelligence professional, with a Bachelor's degree in Mathematics and a postgraduate degree in Systems Analysis and Development. Currently working as a BI Assistant, developing data models, building dashboards, and delivering analytical solutions that support strategic business decision-making.
 
 - Develop dashboards using Power BI
 
