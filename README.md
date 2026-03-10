@@ -61,7 +61,4 @@ I’m deeply interested in backend development and software engineering principl
 <div>
 <a href = "mailto:hrbdata17@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-📝 <b>Blog:</b>
-<div>
-<a href="https://hrbdata.blogspot.com" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Blogspot-orange?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogspot"></a>
-</div>
+
