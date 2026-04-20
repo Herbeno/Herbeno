@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **Herben Oliveira**
+# Hi, I’m **Herben Oliveira**
 ## Welcome to my GitHub profile. 
 
 Business Intelligence professional with a background in Mathematics and a postgraduate degree in Systems Analysis and Development. Experienced in data modeling, dashboard development, and transforming raw data into actionable insights to drive strategic decisions.
