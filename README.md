@@ -1,20 +1,21 @@
 # Hi, I’m **Herben Oliveira**
 ## Welcome to my GitHub profile. 
 
-Business Intelligence professional with a background in Mathematics and a postgraduate degree in Systems Analysis and Development. Experienced in data modeling, dashboard development, and transforming raw data into actionable insights to drive strategic decisions.
+Business Intelligence professional with a strong background in Mathematics and a postgraduate degree in Systems Analysis and Development. Experienced in data modeling, dashboard development, and transforming raw data into actionable insights to drive strategic decisions.
 
-- Develop dashboards using Power BI
+### Core Skills and Tech Stack:
 
-- Transform and model data with Power Query
+- Data Visualization: Developing dynamic dashboards using Power BI
 
-- Write SQL queries for data extraction and analysis
+- ETL and Modeling: Transforming and modeling complex data with Power Query
 
-- Use Python for data manipulation and automation
+- Databases: Writing optimized SQL queries for a data estration and analysis
 
-- Support data-driven decision-making processes
+- Automation: Using Python for a data manipulation, scripting, and automation
 
-I’m deeply interested in backend development and software engineering principles. I enjoy understanding how systems work behind the scenes and how data flows through applications.
+### Beyond BI:
 
+I’m deeply interested in backend development and software engineering principles. I enjoy archtecture, understanding how complex systems work behind the scenes, and optimizing how data flows securely through applications.
 
 
 ### 🛠️ Technologies and Tools
