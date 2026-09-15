@@ -41,7 +41,6 @@ I’m deeply interested in backend development and software engineering principl
   <img src="https://img.shields.io/badge/Star_Schema-0A0A0A?style=flat-square" height="22" alt="Star Schema" />
   <img src="https://img.shields.io/badge/ETL-0A0A0A?style=flat-square" height="22" alt="ETL" />
   <img src="https://img.shields.io/badge/Semantic_Models-0A0A0A?style=flat-square" height="22" alt="Semantic Models" />
-  <img src="https://img.shields.io/badge/Desbravador-0A0A0A?style=flat-square" height="22" alt="Desbravador" />
 </p>
 
 #### Platform, Ops & Automation
